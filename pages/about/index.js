@@ -43,16 +43,16 @@ const aboutData = [
     title: 'experience',
     info: [
       {
-        title: 'Lobbylair - Final Project Henry Bootcamp',
-        stage: '2023',
+        title: 'Burger joint - Final Project ',
+        stage: '2024',
       },
       {
-        title: 'Countries App - Individual Project Henry Bootcamp',
-        stage: '2023',
+        title: 'Sulla jeans - Individual Project ',
+        stage: '202',
       },
       {
-        title: 'Final Project Web Developement - CoderHouse',
-        stage: '2022',
+        title: 'Cafeteria Web Developement - CoderHouse',
+        stage: '2023',
       },
       {
         title: 'Final Project Javascript - CoderHouse',
@@ -80,7 +80,7 @@ const aboutData = [
         stage: '2022',
       },
       {
-        title: 'FullStack Web Developer - Henry',
+        title: 'FullStack Web Developer - Dev club',
         stage: '2023',
       },
     ],

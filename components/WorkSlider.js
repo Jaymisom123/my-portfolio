@@ -83,7 +83,7 @@ const WorkGallery = () => {
           right: -2px;
           bottom: -2px;
           border-radius: 16px;
-          background: linear-gradient(270deg, #00f0ff, #F53125, #00ff95, #00f0ff);
+          background: linear-gradient(270deg, #8D939B, #F53125, #6A49E8, #8D939B);
           background-size: 800% 800%;
           z-index: 0;
           filter: blur(15px);
